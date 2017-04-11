@@ -11,5 +11,8 @@
   },
   "scripts": {
     "postinstall": "make"
+  },
+  "dependencies": {
+    "raphael": "^2.1.4"
   }
 }
