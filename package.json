@@ -3,14 +3,11 @@
   "description": "npm package of g.raphael",
   "version": "1.2.0",
   "author": "Kenneth Kan <kenhkan@gmail.com>",
-  "homepage": "https://github.com/kenhkan/graphael",
+  "homepage": "https://github.com/ryankshaw/graphael",
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenhkan/graphael.git"
-  },
-  "scripts": {
-    "postinstall": "make"
+    "url": "https://github.com/ryankshaw/graphael.git"
   },
   "dependencies": {
     "raphael": "^2.1.4"
